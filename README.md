@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darwishathibi&label=Profile%20views&color=0e75b6&style=flat" alt="darwishathibi" /> </p>
 
-- 📫 How to reach me **dansihdarwis82@gmail.com**
+- 📫 How to reach me **danishdarwis82@gmail.com**
 
 - ⚡ Fun fact **I am not funny HEHE**
 
