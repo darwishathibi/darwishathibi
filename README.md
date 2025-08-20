@@ -7,7 +7,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqk4lrut7mme6oumt2rbkezw2y&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
+[![committers.top badge](https://user-badge.committers.top/malaysia/USERNAME.svg)](https://user-badge.committers.top/malaysia/darwishathibi)
 ###
 
 <p align="left">Ello mate! 👋 I’m a passionate  developer who loves exploring how technology can be used to build, protect, and innovate.</p>
