@@ -32,6 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/nextjs-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -41,7 +44,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/darwis-shathibi-965609204" target="_blank">
+  <a href="https://www.linkedin.com/in/darwis-shathibi-965609204" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/darwishathibi" target="_blank">
@@ -49,9 +52,6 @@
   </a>
   <a href="https://www.instagram.com/darwishathibi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="danishdarwis82@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
