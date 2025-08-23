@@ -16,6 +16,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darwishathibi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  [![Darwis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darwishathibi&custom_title=This%20is%20a%mine&hide_border=true)](https://github.com/darwishathibi/github-readme-activity-graph)
 </div>
 
 ###
