@@ -7,6 +7,20 @@
 ###
 
 <div align="center">
+  <a href="https://user-badge.committers.top/malaysia_public/darwishathibi">
+    <img src="https://user-badge.committers.top/malaysia_public/darwishathibi.svg" alt="committers.top badge" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31iqk4lrut7mme6oumt2rbkezw2y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqk4lrut7mme6oumt2rbkezw2y&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://open.spotify.com/user/31iqk4lrut7mme6oumt2rbkezw2y">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqk4lrut7mme6oumt2rbkezw2y&count=5&unique=false" alt="Spotify recently played"  />
   </a>
