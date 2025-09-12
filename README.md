@@ -15,14 +15,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31iqk4lrut7mme6oumt2rbkezw2y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqk4lrut7mme6oumt2rbkezw2y&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=darwishathibi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darwishathibi&theme=github-compact&hide_border=true" alt="Contribution Graph" />
