@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ello mate! 👋 I’m a passionate  developer who loves exploring how technology can be used to build, protect, and innovate.</p>
+<p align="left">Ello mate! 👋 I’m a passionate developer who loves exploring how technology can be used to build, protect, and innovate.</p>
 
 ###
 
