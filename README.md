@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://user-badge.committers.top/malaysia_private/darwishathibi">
-    <img src="https://user-badge.committers.top/malaysia_public/darwishathibi.svg" alt="committers.top badge" />
+    <img src="https://user-badge.committers.top/malaysia_private/darwishathibi.svg" alt="committers.top badge" />
   </a>
 </div>
 
