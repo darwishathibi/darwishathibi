@@ -1,4 +1,4 @@
-<h1 align="left"> Comp Sci Student | Love Nasi Kandaq</h1>
+<h1 align="left"> Jr Sw Dev | Love Nasi Kandaq</h1>
 
 ###
 
